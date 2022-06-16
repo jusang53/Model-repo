@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?AutomationRuntimeIOSystem Version = 1.0?>
+<IOCFG xmlns="http://www.br-automation.com/AR/IO" Version="2.0">
+  <Module ID="$root" Hardware="X20CP1586">
+    <Parameter ID="HardwareModuleName" Value="X20CP1586" />
+    <Parameter ID="SimulationIPAddress" Value="127.0.0.1" />
+    <Parameter ID="SimulationInaPort" Value="11160" Type="UDINT" />
+    <Parameter ID="SimulationInaNodeNumber" Value="1" Type="UDINT" />
+    <Parameter ID="SimulationModeOpcUa" Value="on" />
+    <Parameter ID="ActivateDtmServer" Value="0" Type="UDINT" />
+    <Parameter ID="TemperatureCPUType" Value="UINT" />
+    <Parameter ID="TemperatureENVType" Value="UINT" />
+  </Module>
+  <Module ID="IF2" Hardware="X20CP1586">
+    <Parameter ID="DeviceDescription" Value="gei" />
+    <Parameter ID="EthInterfaceRedundant" Value="0" />
+    <Parameter ID="ActivateOSAFT" Value="0" />
+  </Module>
+  <Module ID="IF2.OPCUA" Hardware="OPCUA">
+    <Parameter ID="ActivateOpcUa" Value="1" Type="INT" />
+  </Module>
+  <Module ID="IF2.SITEMAN" Hardware="SITEMAN">
+    <Parameter ID="ActivateSiteMan" Value="1" Type="INT" />
+  </Module>
+  <Module ID="IF3" Hardware="X20CP1586">
+    <Parameter ID="Operation" Value="EthOnly" />
+    <Parameter ID="MtuSize" Value="1500" Type="UDINT" />
+    <Parameter ID="BaudRate" Value="102" Type="UDINT" />
+    <Parameter ID="ActivateOSAFT" Value="0" />
+  </Module>
+  <Module ID="IF3.OPCUA" Hardware="OPCUA">
+    <Parameter ID="ActivateOpcUa" Value="1" Type="INT" />
+  </Module>
+  <Module ID="IF3.SITEMAN" Hardware="SITEMAN">
+    <Parameter ID="ActivateSiteMan" Value="1" Type="INT" />
+  </Module>
+  <Module ID="IF6.X2X" Hardware="X2X">
+    <Parameter ID="CycleTime" Value="2000" Type="UDINT" />
+    <Parameter ID="Synchron" Value="on" />
+    <Parameter ID="BusLength" Value="1000" Type="UDINT" />
+    <Parameter ID="Stations" Value="64" Type="UDINT" />
+    <Parameter ID="AsyncPayload" Value="80" Type="UDINT" />
+    <Parameter ID="Asymmetric" Value="off" />
+    <Parameter ID="OutputJustInTime" Value="on" />
+    <Parameter ID="BusCycleTrigger" Value="auto" />
+    <Parameter ID="OutputCycleTrigger" Value="auto" />
+  </Module>
+</IOCFG>

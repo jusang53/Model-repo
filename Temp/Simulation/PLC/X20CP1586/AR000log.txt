@@ -1,0 +1,21 @@
+Thu Jun 16 22:14:40 2022
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Thu Jun 16 22:14:40 2022
+No ARsim registration found!
+
+Thu Jun 16 22:14:40 2022
+InstanceName: 01d8818309470da0
+
+Thu Jun 16 22:14:40 2022
+WorkingDirectory: C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Temp\Simulation\PLC\X20CP1586\
+
+Thu Jun 16 22:14:40 2022
+COMMAND_COLDSTART
+
+Thu Jun 16 22:14:42 2022
+Version: G4.53
+
+Thu Jun 16 22:15:19 2022
+COMMAND_TERMINATE
+

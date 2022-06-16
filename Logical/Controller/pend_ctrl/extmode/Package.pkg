@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=3.0?><Package xmlns="http://br-automation.co.at/AS/Package">
+   <Objects>
+      <Object Type="File">bur_logging.c</Object>
+      <Object Type="File">bur_logging.h</Object>
+      <Object Type="File">ext_svr.c</Object>
+      <Object Type="File">ext_work.c</Object>
+      <Object Type="File">mem_mgr.c</Object>
+      <Object Type="File">rtiostream_interface.c</Object>
+      <Object Type="File">rtiostream_tcpip_static.c</Object>
+      <Object Type="File">updown.c</Object>
+   </Objects>
+</Package>

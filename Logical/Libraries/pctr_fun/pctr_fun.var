@@ -1,0 +1,5 @@
+
+(* Constants are now declared as defines in main.c *)
+ (*   SS_INITIALIZE: SINT := 2;  initialize function block *)
+ (*   SS_OUTPUT: SINT := 3;  run function block cyclically *)
+ (*   SS_TERMINATE: SINT := 4;  terminate function block *)

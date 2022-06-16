@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UANodeSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uax="http://opcfoundation.org/UA/2008/02/Types.xsd" xmlns:ua="http://br-automation.com/OpcUa/configuration/NodeSet.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://opcfoundation.org/UA/2011/03/UANodeSet.xsd">
+  <NamespaceUris>
+    <Uri>http://br-automation.com/OpcUa/PLC/PV/</Uri>
+  </NamespaceUris>
+  <Models>
+    <Model ModelUri="http://br-automation.com/OpcUa/PLC/PV/" Version="1.00" PublicationDate="2022-06-15T01:52:10Z" />
+  </Models>
+  <Extensions>
+    <Extension>
+      <ua:ModelInfo Tool="AutomationStudio" Version="4.5.2.102" />
+      <Provider>PV</Provider>
+    </Extension>
+  </Extensions>
+  <DefaultView>
+    <Module>
+      <GlobalVariables Name="Global PV">
+        <Variable Name="F" DataType="i=11" />
+        <Variable Name="ref" DataType="i=11" />
+        <Variable Name="reset" DataType="i=1" />
+        <Variable Name="start" DataType="i=1" />
+        <Variable Name="x" DataType="i=11" ValueRank="1" ArrayDimensions="4" />
+        <Variable Name="y" DataType="i=11" ValueRank="1" ArrayDimensions="2" />
+      </GlobalVariables>
+      <Task Name="pend_mod" />
+      <Task Name="pend_ctrl" />
+    </Module>
+  </DefaultView>
+</UANodeSet>

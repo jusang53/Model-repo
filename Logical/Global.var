@@ -1,0 +1,8 @@
+VAR
+	reset : BOOL := FALSE;
+	ref : LREAL := 0; (*Reference input*)
+	x : ARRAY[0..3] OF LREAL := [4(0)]; (*Inverted pendulum state x*)
+	y : ARRAY[0..1] OF LREAL := [2(0)]; (*Inverted pendulum output y*)
+	F : LREAL := 0; (*Car force*)
+	start : BOOL := FALSE;
+END_VAR

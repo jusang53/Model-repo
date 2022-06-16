@@ -1,0 +1,10 @@
+PROCESS STARTED: 16-06-2022, 03:44:25
+1: @START@ "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Transfer.pil"
+2: Connection "/IF=tcpip /LOPO=11159 /SA=1", "/RT=1000 /DAIP=127.0.0.1 /REPO=11160 /ANSL=1 /AM=* /PT=11169"
+Connection "/IF=tcpip /LOPO=11159 /SA=1", "/RT=1000 /DAIP=127.0.0.1 /REPO=11160 /ANSL=1 /AM=* /PT=11169" SUCCESSFUL
+3: Stop "65535"
+Stop "65535" SUCCESSFUL
+4: Transfer "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\RucPackage_JS_PLC.zip", "InstallMode=Consistent InstallRestriction=AllowUpdatesWithoutDataLoss KeepPVValues=1 ExecuteInitExit=1 TryToBootInRUNMode=1"
+Transfer "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\RucPackage_JS_PLC.zip", "InstallMode=Consistent InstallRestriction=AllowUpdatesWithoutDataLoss KeepPVValues=1 ExecuteInitExit=1 TryToBootInRUNMode=1" SUCCESSFUL
+5: @END@ "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Transfer.pil"
+PROCESS FINISHED (SUCCESS): 16-06-2022, 03:44:36

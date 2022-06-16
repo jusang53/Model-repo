@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.3.196?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">MessageServiceLayer.h</Object>
+    <Object Type="File">sf_runtime_errors.h</Object>
+    <Object Type="File">sf_runtime_spec.h</Object>
+    <Object Type="File">sf_runtime_types.h</Object>
+    <Object Type="File">sf_test_language.h</Object>
+    <Object Type="File">sfc_api.h</Object>
+    <Object Type="File">sfc_messages.h</Object>
+    <Object Type="File">sfc_mex.h</Object>
+    <Object Type="File">sfc_sdi.h</Object>
+    <Object Type="File">sfc_sf.h</Object>
+    <Object Type="File">sfcdebug.h</Object>
+    <Object Type="File">slTestResult.h</Object>
+    <Object Type="File">slTestTypes.h</Object>
+    <Object Type="File">utils.h</Object>
+    <Object Type="File">ChartInfoStruct.h</Object>
+    <Object Type="File">DebuggerRuntimeInterface.h</Object>
+  </Objects>
+</Package>

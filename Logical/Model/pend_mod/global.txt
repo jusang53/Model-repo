@@ -1,0 +1,5 @@
+VAR
+	    y : ARRAY[0..1] OF LREAL:= [2(0)]; (*Output variables (car position and pendulum angle)*)
+	    x : ARRAY[0..3] OF LREAL:= [4(0)]; (*State variables (x, v, theta, omega)*)
+	    F : LREAL := 0; (*Manipulated plant input: Force F*)
+END_VAR

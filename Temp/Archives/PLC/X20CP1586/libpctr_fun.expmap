@@ -1,0 +1,6 @@
+{
+  global:
+    pctrFub;
+  local:
+    *;
+ };

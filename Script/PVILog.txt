@@ -1,0 +1,30 @@
+PROCESS STARTED: 16-06-2022, 04:11:15
+1: @START@ "C:\Users\PC\Desktop\PIL_PLC\SIH_pil.pil"
+2: Connection "/IF=tcpip /SA=1", "/DAIP=192.168.0.5 /RT=350 /REPO=11159 ", "WT=30", "C", "IP=192.168.0.5 PN=4840"
+PROCESS STARTED: 16-06-2022, 04:14:22
+1: @START@ "C:\Users\PC\Desktop\PIL_PLC\SIH_pil.pil"
+2: Connection "/IF=tcpip /SA=1", "/DAIP=192.168.0.5 /RT=350 /REPO=11159 ", "WT=30", "C", "IP=192.168.0.5 PN=4840"
+PROCESS STARTED: 16-06-2022, 22:20:42
+1: @START@ "C:\Users\PC\Desktop\PIL_PLC\SIH_pil.pil"
+2: Connection "/IF=tcpip /SA=1", "/DAIP=192.168.0.5 /RT=350 /REPO=11169", "WT=30", "C"
+Connection "/IF=tcpip /SA=1", "/DAIP=192.168.0.5 /RT=350 /REPO=11169", "WT=30", "C" SUCCESSFUL
+3: Stop "65535"
+Stop "65535" SUCCESSFUL
+4: Transfer "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\RucPackage_JS_PLC.zip", "InstallMode=Consistent InstallRestriction=AllowUpdatesWithoutDataLoss KeepPVValues=1 ExecuteInitExit=1 TryToBootInRUNMode=1 ResumeAfterRestart=1"
+XML validation of file "C:\Users\PC\AppData\Local\Temp\c87a8bc9-90e8-4a04-a90a-e36e1450e793\Transfer.tcfg" failed.
+
+Details:
+'TransferConfig' 요소의 콘텐츠가 완전하지 않습니다. 필요한 요소 목록: 'InstallModule, CopyFile, CreateDirectory'
+PROCESS ABORTED: 16-06-2022, 22:21:21
+PROCESS STARTED: 16-06-2022, 22:23:58
+1: @START@ "C:\Users\PC\Desktop\PIL_PLC\SIH_pil.pil"
+2: Connection "/IF=tcpip /SA=1", "/DAIP=192.168.0.5 /RT=350 /REPO=11169", "WT=30", "C"
+Connection "/IF=tcpip /SA=1", "/DAIP=192.168.0.5 /RT=350 /REPO=11169", "WT=30", "C" SUCCESSFUL
+3: Stop "65535"
+Stop "65535" SUCCESSFUL
+4: Transfer "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\RucPackage_JS_PLC.zip", "InstallMode=Consistent InstallRestriction=AllowUpdatesWithoutDataLoss KeepPVValues=1 ExecuteInitExit=1 TryToBootInRUNMode=1 ResumeAfterRestart=1"
+XML validation of file "C:\Users\PC\AppData\Local\Temp\2c61e01c-3642-43c5-801d-1b18bdf8800d\Transfer.tcfg" failed.
+
+Details:
+'TransferConfig' 요소의 콘텐츠가 완전하지 않습니다. 필요한 요소 목록: 'InstallModule, CopyFile, CreateDirectory'
+PROCESS ABORTED: 16-06-2022, 22:24:38

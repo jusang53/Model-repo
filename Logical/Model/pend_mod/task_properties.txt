@@ -1,0 +1,10 @@
+For manual assignment to hardware configuration please
+add the following additional include directories:
+
+\Logical\MATLAB_includes\R2019b\
+
+
+
+And the following additional build options:
+
+-lm -D MODEL=pend_mod_nlin -D NUMST=2 -D NCSTATES=4 -D HAVESTDIO -D MODEL_HAS_DYNAMICALLY_LOADED_SFCNS=0 -D CLASSIC_INTERFACE=0 -D ALLOCATIONFCN=0 -D TID01EQ=1 -D TERMFCN=1 -D ONESTEPFCN=0 -D MAT_FILE=0 -D MULTI_INSTANCE_CODE=0 -D INTEGER_CODE=0 -D MT=0 

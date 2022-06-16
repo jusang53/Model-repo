@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toc Version="2" MINORVERSION="0">
+	<Application>
+		<Class Name="AddonsData">
+			<Folder Name="OPCUA" ProjectDependent="1">
+				<Folder Name="NodeSet" ProjectDependent="1" IsGroup="1">
+					<Folder Name="Vendor" ProjectDependent="1" IsGroup="1">
+						<File Name="plc.aprol.uanodeset" Size="6660" HashValue="45C262C5FB0AC7AF91C4E0AF79544FE7" ProjectDependent="1"/>
+						<File Name="plc.br.pv.uanodeset" Size="7045" HashValue="DDAEDF25B973C16F115C7AD5DB276C13" ProjectDependent="1"/>
+						<File Name="plc.plcopen.pv.uanodeset" Size="18745" HashValue="F7992BEE72225A497855C573933B07A8" ProjectDependent="1"/>
+						<File Name="plc.uanodeset" Size="66085" HashValue="0BCCB98A68083B5C99D3E1006F6E6389" ProjectDependent="1"/>
+					</Folder>
+				</Folder>
+			</Folder>
+		</Class>
+		<Class Name="Os">
+			<File Name="arsimproxy.dll" Size="160256" HashValue="7F6EE2EA55644C0376854060E21D1C3E" ProjectDependent="1"/>
+			<File Name="InaFrms.dll" Size="98304" HashValue="BCBB8AB4B7168E2BB538CF86E5B742A3" ProjectDependent="1"/>
+			<Folder Name="Brm" ProjectDependent="1">
+				<File Name="@cfAR000.br" Size="4340" HashValue="585BE64541F603FBB1D6097320C2422E" ProjectDependent="1"/>
+				<File Name="@sbAR000.br" Size="2292" HashValue="AC87063864993D1B65E62C1E56975C7D" ProjectDependent="1"/>
+			</Folder>
+			<Folder Name="System" ProjectDependent="1">
+				<Folder Name="BASE" ProjectDependent="1">
+					<Folder Name="COMPONENTS" ProjectDependent="1">
+						<File Name="ArLcTextP.br" Size="537344" HashValue="E05F098D39012CDCD0A3DBA9B9047B54" ProjectDependent="1"/>
+						<File Name="unitsys.br" Size="476256" HashValue="5FA2D7558ECEBE5F6379339027C94F61" ProjectDependent="1"/>
+					</Folder>
+					<Folder Name="HWD" ProjectDependent="1">
+						<File Name="AsHwdhw_upl.xml.gz" Size="15941" HashValue="946C77B8D4F2C191A531D6594381365E" ProjectDependent="1"/>
+						<File Name="AsHwdSimulation.xml.gz" Size="12190" HashValue="0DE3F73C23D4602BF06B8482D6FD1954" ProjectDependent="1"/>
+					</Folder>
+				</Folder>
+				<Folder Name="SDM" ProjectDependent="1">
+					<File Name="arsdm.tar.gz" Size="522497" HashValue="16AD08771FDA0656AAFAF3EAFC671F74" ProjectDependent="1"/>
+				</Folder>
+				<Folder Name="TOC" ProjectDependent="1">
+					<File Name="ftoc.xml" Size="821" HashValue="F83AEC703141D083AB19580424BF781A" ProjectDependent="1"/>
+				</Folder>
+				<Folder Name="WEBSERV" ProjectDependent="1">
+					<File Name="webserv.br" Size="109076" HashValue="8EDA446C9065D0461E52F3E34B28BE4F" ProjectDependent="1"/>
+				</Folder>
+			</Folder>
+		</Class>
+	</Application>
+</Toc>

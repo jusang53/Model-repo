@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<Library Version="1.00.0" SubType="ANSIC" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File>lib_properties.txt</File>
+    <File>pctrFub.c</File>
+    <File>pctr_fun.fun</File>
+    <File>pctr_fun.typ</File>
+    <File>pctr_fun.var</File>
+    <File>pend_ctrl_fun.c</File>
+    <File>pend_ctrl_fun.h</File>
+    <File>pend_ctrl_fun_private.h</File>
+    <File>pend_ctrl_fun_types.h</File>
+    <File>rt_defines.h</File>
+    <File>rtwtypes.h</File>
+  </Files>
+</Library>

@@ -1,0 +1,3 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/sys_lib/sys_lib.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/brsystem/brsystem.fun
+$(AS_PROJECT_PATH)/Logical/Global.var

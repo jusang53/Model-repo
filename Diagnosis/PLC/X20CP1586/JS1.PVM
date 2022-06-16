@@ -1,0 +1,13 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName= 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=0 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                       F                                    LREAL    0 "                                          2.7132948956711491E-87"    0   14    1   10    0    0         
+                                     ref                                    LREAL    0 "                                                             0.0"    0   14    1   10    0    0         
+                                       x                              LREAL[0..3]    0 "                                                               *"    0   14    4    0    0    1         
+                                    x[0]                                    LREAL    0 "                                          4.5096170260255346E-90"    1   14    1   10    0    0         
+                                    x[1]                                    LREAL    0 "                                         -6.6083240161324495E-90"    1   14    1   10    0    0         
+                                    x[2]                                    LREAL    0 "                                          3.5829875924432588E-92"    1   14    1   10    0    0         
+                                    x[3]                                    LREAL    0 "                                           1.727507414068195E-90"    1   14    1   10    0    0         
+                                       y                              LREAL[0..1]    0 "                                                               *"    0   14    2    0    0    1         
+                                    y[0]                                    LREAL    0 "                                          4.5096170260255346E-90"    1   14    1   10    0    0         
+                                    y[1]                                    LREAL    0 "                                          6.9935791201106526E-92"    1   14    1   10    0    0         

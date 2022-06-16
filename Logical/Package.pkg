@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<Package Version="1.00.0" xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="Package" Description="Global libraries">Libraries</Object>
+    <Object Type="Package" Description="Default includes for B&amp;R Automation Studio Target for Simulink">MATLAB_includes</Object>
+    <Object Type="Package">Model</Object>
+    <Object Type="Package">Controller</Object>
+    <Object Type="File" Description="Global data types of pend_ctrl">Global.typ</Object>
+    <Object Type="File" Description="Global variables of pend_ctrl">Global.var</Object>
+  </Objects>
+</Package>
