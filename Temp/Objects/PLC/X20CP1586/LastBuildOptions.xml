@@ -11,7 +11,7 @@
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\opcuamap.br">
     <Prerequisite ID="$(AS_PROJECT_PATH)\physical\plc\x20cp1586\connectivity\opcua\opcuamap.uad" LastWriteTime="2022-06-07 20:36:46" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\logical\global.var" LastWriteTime="2022-06-07 20:36:58" />
-    <CommandLine Parameter="'C:/Users/PC/Desktop/ASFileWithPLC/JS/JS/Physical/PLC/X20CP1586/Connectivity/OpcUA/OpcUaMap.uad' -o 'C:/Users/PC/Desktop/ASFileWithPLC/JS/JS/Temp/Objects/PLC/X20CP1586/OpcUaMap.br' -H 'C:/Users/PC/Desktop/ASFileWithPLC/JS/JS/Physical/PLC/Hardware.hw' -B G4.53 -c PLC -P 'C:/Users/PC/Desktop/ASFileWithPLC/JS/JS' " />
+    <CommandLine Parameter="'C:/Users/PC/Desktop/PIL_PLC/GIT/JS/Physical/PLC/X20CP1586/Connectivity/OpcUA/OpcUaMap.uad' -o 'C:/Users/PC/Desktop/PIL_PLC/GIT/JS/Temp/Objects/PLC/X20CP1586/OpcUaMap.br' -H 'C:/Users/PC/Desktop/PIL_PLC/GIT/JS/Physical/PLC/Hardware.hw' -B G4.53 -c PLC -P 'C:/Users/PC/Desktop/PIL_PLC/GIT/JS' " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\ashwac.br">
     <Prerequisite ID="$(AS_PROJECT_PATH)\physical\plc\hardware.hw" LastWriteTime="2022-06-16 22:15:18" />
@@ -348,7 +348,7 @@
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\binaries\plc\x20cp1586\transfer.lst">
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\iomap.br" LastWriteTime="2022-06-15 10:52:08" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\opcuamap.br" LastWriteTime="2022-06-15 10:52:10" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\opcuamap.br" LastWriteTime="2022-06-17 01:30:02" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\ashwac.br" LastWriteTime="2022-06-15 10:52:08" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\sysconf.br" LastWriteTime="2022-06-15 16:12:34" />
     <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\asfw.br" LastWriteTime="2022-06-15 10:52:08" />

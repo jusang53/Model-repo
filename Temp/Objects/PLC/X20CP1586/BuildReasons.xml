@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\opcuamap.br">
+    <BuildReason>ExternalCommand line differs.
+</BuildReason>
+  </Rule>
   <Rule ID="#cpu_tp.mak">
     <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\plc\x20cp1586\transfer.lst">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\plc\x20cp1586\opcuamap.br" differs.
+</BuildReason>
   </Rule>
 </BuildReasons>

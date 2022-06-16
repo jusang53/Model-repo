@@ -107,3 +107,7 @@ JS | PLC | Build
 mingw32-make.exe, Error = False. Call = mingw32-make.exe  -r -f "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Temp\Objects\PLC\X20CP1586\#cpu_tp.mak" -k
 JS | PLC | Build
 mingw32-make.exe, Error = False. Call = mingw32-make.exe  -r -f "C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Temp\Objects\PLC\X20CP1586\#cpu_tp.mak" -k
+JS | PLC | Build
+BR.AS.BuildFrame.exe, Error = False. Call = BR.AS.BuildFrame.exe 'C:/Users/PC/Desktop/PIL_PLC/GIT/JS/Physical/PLC/X20CP1586/Connectivity/OpcUA/OpcUaMap.uad' -o 'C:/Users/PC/Desktop/PIL_PLC/GIT/JS/Temp/Objects/PLC/X20CP1586/OpcUaMap.br' -H 'C:/Users/PC/Desktop/PIL_PLC/GIT/JS/Physical/PLC/Hardware.hw' -B G4.53 -c PLC -P 'C:/Users/PC/Desktop/PIL_PLC/GIT/JS' 
+mingw32-make.exe, Error = False. Call = mingw32-make.exe  -r -f "C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Temp\Objects\PLC\X20CP1586\#cpu_tp.mak" -k
+BR.AS.FinalizeBuild.exe, Error = False. Call = BR.AS.FinalizeBuild.exe  "C:\Users\PC\Desktop\PIL_PLC\GIT\JS\JS.apj" -t "C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Temp" -o "C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Binaries" -c "PLC" -i "C:\BrAutomation\AS45" -S "X20CP1586" -A "X20CP1586" -pil -swFiles "C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Physical\PLC\X20CP1586\Cpu.sw" -Z "UnitSystem: n.d, TextSystem: n.d, ProgrammingSystem: n.d, Connectivity: n.d, AAS: n.d" -C "/RT=1000 /AM=* /DAIP=192.168.0.16 /REPO=11160 /ANSL=1" -D "/IF=tcpip /LOPO=11159 /SA=1" -M IA32 -T SG4

@@ -49,7 +49,10 @@
     <SelectedNodes />
     <ZoomIndices />
   </TreeView>
-  <TextEdit ID="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Model\pend_mod\pend_mod.c" CaretLine="56" CaretColumn="3" FirstVisibleLine="53">
+  <TextEdit ID="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Controller\pend_ctrl\pend_ctrl_lin.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Model\pend_mod\pend_mod.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
   <TreeView ID="SwConfiguration-ProjectTree" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
@@ -91,16 +94,13 @@
     <SelectedNodes />
     <ZoomIndices />
   </TreeView>
-  <TextEdit ID="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Model\pend_mod\pend_mod_nlin.c" CaretLine="93" CaretColumn="37" FirstVisibleLine="227">
+  <TextEdit ID="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Model\pend_mod\pend_mod_nlin.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
-  <TextEdit ID="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Controller\pend_ctrl\pend_ctrl_lin.c" CaretLine="20" CaretColumn="18" FirstVisibleLine="73">
+  <TextEdit ID="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Controller\pend_ctrl\pend_ctrl.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
-  <TextEdit ID="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Controller\pend_ctrl\pend_ctrl.c" CaretLine="59" CaretColumn="22" FirstVisibleLine="69">
-    <Bookmarks />
-  </TextEdit>
-  <TreeView ID="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Global.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+  <TreeView ID="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Global.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
     <Columns>
       <Column Index="0" Width="200" Position="0" />
       <Column Index="1" Width="100" Position="1" />
@@ -120,7 +120,7 @@
     </SelectedNodes>
     <ZoomIndices />
   </TreeView>
-  <TreeView ID="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Model\pend_mod\local.var" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+  <TreeView ID="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Model\pend_mod\local.var" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
     <Columns>
       <Column Index="0" Width="200" Position="0" />
       <Column Index="1" Width="100" Position="1" />
@@ -138,7 +138,7 @@
     <SelectedNodes />
     <ZoomIndices />
   </TreeView>
-  <TreeView ID="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Controller\pend_ctrl\local.var" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+  <TreeView ID="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Controller\pend_ctrl\local.var" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
     <Columns>
       <Column Index="0" Width="200" Position="0" />
       <Column Index="1" Width="100" Position="1" />

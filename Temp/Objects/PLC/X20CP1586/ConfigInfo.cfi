@@ -9,9 +9,9 @@
       Source="Model.pend_mod"
       Language="ANSIC">
       <File
-        Path="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Model\pend_mod\local.typ" />
+        Path="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Model\pend_mod\local.typ" />
       <File
-        Path="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Model\pend_mod\local.var" />
+        Path="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Model\pend_mod\local.var" />
     </Task>
     <Task
       Name="pend_ctrl"
@@ -19,9 +19,9 @@
       Source="Controller.pend_ctrl"
       Language="ANSIC">
       <File
-        Path="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Controller\pend_ctrl\local.typ" />
+        Path="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Controller\pend_ctrl\local.typ" />
       <File
-        Path="C:\Users\PC\Desktop\ASFileWithPLC\JS\JS\Logical\Controller\pend_ctrl\local.var" />
+        Path="C:\Users\PC\Desktop\PIL_PLC\GIT\JS\Logical\Controller\pend_ctrl\local.var" />
     </Task>
   </TaskClass>
   <TaskClass
